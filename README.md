@@ -5,7 +5,7 @@ Bubble is at the same time a visual programming tool and a cloud platform. You u
 
 * Here's the main page
 
-![Main-menu](images\home.PNG)
+![home](https://user-images.githubusercontent.com/65680799/178553215-359a1fe1-430a-4e90-988e-05f683f639b0.PNG)
 
 Bubble lets you build web applications.By combining different data and logic operations, you can create very simple to extremely complicated applications. 
 
@@ -15,7 +15,7 @@ Bubble is one platform that does it all for you, which means you no longer have 
 
 You design, build, maintain, and scale your app using the Application Editor. The editor is structured around seven main tabs (this tabs are in the left corner of the first image)
 
-![tabs](images\tabs.PNG)
+![tabs](https://user-images.githubusercontent.com/65680799/178553287-6b231b8d-35b6-498a-b4ea-758ff9eaed00.png)
 
 * Design tab
 
